@@ -10,6 +10,6 @@
   "author": "FoxNT",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.7"
+    "express": "^4.17.1"
   }
 }
